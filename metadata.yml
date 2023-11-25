@@ -1,0 +1,32 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-team
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: orz
+TeamMembers:
+  - Name: Steve Chen
+    Email: yuxuchen5@student.unimelb.edu.au
+  - Name: Zheqi Shen
+    Email: zheqis@student.unimelb.edu.au
+  - Name: Cheng Chen
+    Email: chencc3@student.unimelb.edu.au
+  # Remove or comment out the following two lines if you have a group of 3
+  - Name: Yingwang Ng
+    Email: yingwangn@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Deep Dark Forest
+GameBlurb: A child wakes up in the forest, where there are devils walking around and about to look for him. Many villagers were killed by devils during the sacrifice because the child escaped. The child wants to save the village from the massacre to the village. He has found a notebook at the middle of ritual field, which records the hint about how to dispel devils and save the village from attack. He has to decode three puzzles in order to get three gems to evoke sacred power which can help him kill the monster and rescue lives of villagers. 
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/UnA7lIbjL48
